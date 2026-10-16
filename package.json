@@ -16,5 +16,8 @@
     "postcss-sort-media-queries": "^6.7.1",
     "prettier": "^3.4.2",
     "vite": "^8.3.2"
+  },
+  "dependencies": {
+    "simplelightbox": "^2.14.3"
   }
 }
